@@ -47,3 +47,8 @@ body{background:#14002b;
 .hero-buttons{margin-top:20px; display: flex; justify-content: center; }
 .hero-buttons .btn{margin:5px; }
 
+/* About */
+.about{text-align:center}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:15px;margin-top:20px}
+.stat span{display:block;font-size:14px;color:#aaa}
+
