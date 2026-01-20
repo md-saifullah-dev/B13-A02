@@ -17,7 +17,7 @@ body{background:#14002b;
   align-items:center
 }
 
-.logo span{color:#ff4fd8}
+.logo span{color:#ff4fd8; cursor:pointer}
 
 .nav a{color:#fff;
   margin:0 10px;
@@ -40,3 +40,10 @@ body{background:#14002b;
   border:1px solid #ff4fd8;
   color:#ff4fd8
 }
+
+/* hero */
+.hero{text-align:center;padding:80px 20px}
+.hero-icon{width:120px;margin-bottom:20px}
+.hero-buttons{margin-top:20px; display: flex; justify-content: center; }
+.hero-buttons .btn{margin:5px; }
+
